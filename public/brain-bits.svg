@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Brain outline -->
+  <path d="M50 10c-20 0-30 10-30 20s10 20 30 20c20 0 30-10 30-20s-10-20-30-20z" fill="none" stroke="#000" stroke-width="2" />
+
+  <!-- Brain folds -->
+  <path d="M50 10c-20 0-30 10-30 20s10 20 30 20c20 0 30-10 30-20s-10-20-30-20z" fill="none" stroke="#000" stroke-width="1" opacity="0.5" />
+  <path d="M50 10c-20 0-30 10-30 20s10 20 30 20c20 0 30-10 30-20s-10-20-30-20z" fill="none" stroke="#000" stroke-width="1" opacity="0.3" />
+  <path d="M50 10c-20 0-30 10-30 20s10 20 30 20c20 0 30-10 30-20s-10-20-30-20z" fill="none" stroke="#000" stroke-width="1" opacity="0.2" />
+
+  <!-- Brain details -->
+  <circle cx="40" cy="25" r="1" fill="#000" />
+  <circle cx="60" cy="25" r="1" fill="#000" />
+  <circle cx="50" cy="35" r="1" fill="#000" />
+  <circle cx="45" cy="45" r="1" fill="#000" />
+  <circle cx="55" cy="45" r="1" fill="#000" />
+  <circle cx="50" cy="55" r="1" fill="#000" />
+</svg>
